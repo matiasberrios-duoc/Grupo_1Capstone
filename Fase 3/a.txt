@@ -1,4 +1,0 @@
- if (ConfigurationManager.AppSettings["ImpresionVersionMedicien"] != null)
- {
-     ImpresionVersionMedicien = Convert.ToBoolean(ConfigurationManager.AppSettings["ImpresionVersionMedicien"]);
- }
